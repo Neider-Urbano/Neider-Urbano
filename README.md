@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Soy Neider Urbano</h1>
-<h3 align="center">Un entusiasta desarrollador web y software</h3>
+<h3 align="center">Soy Ingeniero de Sistemas y Desarrollador Full Stack. Soy Colombiano. Me gusta desarrollar soluciones tecnologicas</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neider-urbano&label=Profile%20views&color=0e75b6&style=flat" alt="neider-urbano" /> </p>
 
