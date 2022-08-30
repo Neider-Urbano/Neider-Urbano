@@ -1,5 +1,12 @@
 <h1 align="center">Hola 👋, Soy Neider Urbano</h1>
-<h3 align="center">Soy Ingeniero de Sistemas y Full Stack Developer. Soy Colombiano y me gusta desarrollar soluciones tecnologicas</h3>
+<h3 align="center">Soy Ingeniero de Sistemas, Fullstack Developer y 
+técnico en Tecnologías de la información y 
+la comunicación (TIC) 🚀🎖️. Tengo experiencia como lider y desarrollador 
+de proyectos tecnologicos tanto para escritotio como para la web, aplicando el ciclo de 
+vida del software 🎁💡. Con conocimientos en diferentes lenguajes de programación, 
+marcos de trabajo y herramientas de diseño ✒️🖥️. Responsable,  honesto,
+creativo, con alta capacidad de autoaprendizaje y de trabajo en equipo, de 
+actitud positiva, resiliente y proactivo. ⚙️👏🏼🔍.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neider-urbano&label=Profile%20views&color=0e75b6&style=flat" alt="neider-urbano" /> </p>
 
