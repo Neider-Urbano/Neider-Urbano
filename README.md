@@ -26,14 +26,13 @@ de proyectos tecnológicos tanto para escritorio como para la web ⚙️👏🏼
   </a>
  </div>
 <br />
-<br/>
-  
+ 
 ### 🎿 Hobbies:
-  -Fútbol 
-  -dición de Vídeos y fotos
-  -Tocar  cuatro Llanero
-  -Componer canciones cristianas
-  -Ajedrez 🤔🤖
+-   Fútbol
+-   Edición de Vídeos y fotos
+-   Tocar  cuatro Llanero
+-   Componer canciones cristianas
+-   Ajedrez 🤔🤖
 <br />
 <br/>
 
