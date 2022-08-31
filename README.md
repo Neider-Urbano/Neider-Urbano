@@ -53,7 +53,7 @@ comunicación (TIC) de origen Colombiano🚀🎖️.
 
 <div>
   <div>
-    <img src="https://drive.google.com/file/d/1fZfaNEcbNYsa5xUlwJGPkBYOEOzFsWCz/view" alt="proyecto1"/>
+    <img src="https://drive.google.com/drive/u/0/folders/1Nhe0L98ystM0gYT5UCIDZ2DEeJPhYVOv" alt="proyecto1"/>
   </div>
   <div>
     <img src="https://drive.google.com/file/d/1fZfaNEcbNYsa5xUlwJGPkBYOEOzFsWCz/view?usp=sharing" alt="proyecto1"/>
