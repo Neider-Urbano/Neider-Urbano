@@ -19,7 +19,7 @@
 <br />
 <br/>
 
-  <img align="right" height="400px" style="margin-right:40px; margin-left:40px" alt="Neider's photo" src="https://drive.google.com/drive/u/0/folders/1Nhe0L98ystM0gYT5UCIDZ2DEeJPhYVOv" />
+  <img align="right" height="400px" style="margin-right:40px; margin-left:40px" alt="Neider's photo" src="https://drive.google.com/file/d/1Z7UnHWD2mpfndugbNx-IfhwYsI4xR4yH/view?usp=sharing" />
 <p>
 Soy Ingeniero de Sistemas, Full-stack Developer y 
 técnico en Tecnologías de la información y la 
