@@ -29,9 +29,9 @@ comunicación (TIC) de origen Colombiano🚀🎖️.
   
 ### ✨ Información
 
--   📫 Cómo contactarme: jjuly8julianur@gmail.com
+-   📫 jjuly8julianur@gmail.com
 -   📝 [Resume](https://drive.google.com/file/d/1p5eM20YY464Ca4-JfZm1GuAHuhp81Zt2/view?usp=sharing)
--   ♥ Sígueme en [![GitHub followers](https://img.shields.io/github/followers/Neider-Urbano?label=Follow&style=social)](https://github.com/Neider-Urbano/?tab=follow) 
+-   ♥ [![GitHub followers](https://img.shields.io/github/followers/Neider-Urbano?label=Follow&style=social)](https://github.com/Neider-Urbano/?tab=follow) 
 -   🎿 Hobbies: Fútbol, Edición de Vídeos y fotos , Tocar Cuatro Llanero, Componer canciones cristianas, Ajedrez 🤔🤖..
  
   
