@@ -3,15 +3,15 @@
 <br/>
 
 <div style="display:flex; align-items:center">
-<a href="https://www.linkedin.com/in/neiderurbano08">
+<a href="https://www.linkedin.com/in/neiderurbano08" target="_blank">
   <img align="left" style="margin-right:5px" alt="Neider's Linkedin" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
 </a>
 
-<a href="https://www.youtube.com/channel/UCPmgVecuDCSzUPFfoYJ0r8w">
+<a href="https://www.youtube.com/channel/UCPmgVecuDCSzUPFfoYJ0r8w" target="_blank">
   <img align="left" alt="Neider Youtube" width="22px" src="https://icones.pro/wp-content/uploads/2021/02/youtube-logo-icone.png" />
 </a>
 
-<a href="https://www.facebook.com/neider.urbano.355/">
+<a href="https://www.facebook.com/neider.urbano.355/" target="_blank">
   <img align="left" alt="Neider's Facebook" width="22px" src="https://cdn-icons-png.flaticon.com/512/124/124010.png" />
 </a>
 </div>
@@ -19,7 +19,7 @@
 <br />
 <br/>
 
-  <img align="right" height="400px" style="margin-right:40px; margin-left:40px" alt="Javcho's photo" src="https://drive.google.com/drive/u/0/folders/1Nhe0L98ystM0gYT5UCIDZ2DEeJPhYVOv" />
+  <img align="right" height="400px" style="margin-right:40px; margin-left:40px" alt="Neider's photo" src="https://drive.google.com/drive/u/0/folders/1Nhe0L98ystM0gYT5UCIDZ2DEeJPhYVOv" />
 <p>
 Soy Ingeniero de Sistemas, Full-stack Developer y 
 técnico en Tecnologías de la información y la 
