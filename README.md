@@ -54,9 +54,10 @@ comunicación (TIC) de origen Colombiano🚀🎖️.
 <div style="display:flex; flex-direction:row">
   <div>
     <img style="width:250px" src="https://raw.githubusercontent.com/Neider-Urbano/musicomerce-backend/back/admin/src/routes/proyecto1.png" alt="proyecto1"/>
+    <img style="width:250px" src="https://raw.githubusercontent.com/Neider-Urbano/proyectoindividual/main/client/src/images/fondos/proyecto2.png" alt="proyecto2"/>
   </div>
   <div>
-    <img style="width:250px" src="https://raw.githubusercontent.com/Neider-Urbano/proyectoindividual/main/client/src/images/fondos/proyecto2.png" alt="proyecto2"/>
+    
   </div>
 </div>
   
