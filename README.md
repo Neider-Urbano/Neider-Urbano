@@ -8,11 +8,11 @@
 </a>
 
 <a href="https://www.youtube.com/channel/UCPmgVecuDCSzUPFfoYJ0r8w">
-  <img align="left" alt="Neider Youtube" width="35px" src="https://e7.pngegg.com/pngimages/992/572/png-clipart-youtube-youtube-thumbnail.png" />
+  <img align="left" alt="Neider Youtube" width="22px" src="https://icones.pro/wp-content/uploads/2021/02/youtube-logo-icone.png" />
 </a>
 
 <a href="https://www.facebook.com/neider.urbano.355/">
-  <img align="left" alt="Neider's Facebook" width="35px" src="https://cdn-icons-png.flaticon.com/512/124/124010.png" />
+  <img align="left" alt="Neider's Facebook" width="22px" src="https://cdn-icons-png.flaticon.com/512/124/124010.png" />
 </a>
 </div>
 
