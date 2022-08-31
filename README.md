@@ -35,23 +35,16 @@ comunicación (TIC) de origen Colombiano🚀🎖️.
 -   🎿 Hobbies: Fútbol, Edición de Vídeos y fotos , Tocar Cuatro Llanero, Componer canciones cristianas, Ajedrez 🤔🤖..
  
   
-### 🛠️ Tecnologias Front End:
+### 🛠️ Tecnologias y Herramientas:
 
--![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
--![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
--![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
-
-  
-### 🛠️ Tecnologias Back End:
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=PHP)
 ![MySql](https://img.shields.io/badge/-MySql-black?style=flat-square&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![Express.js](https://img.shields.io/badge/-Express-black?style=flat-square&logo=expressjs)
-  
-  
-### 🛠️ Otras Tecnologias:
-
 ![Heroku](https://img.shields.io/badge/-Heroku-black?style=flat-square&logo=heroku)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
   
