@@ -53,7 +53,7 @@ comunicación (TIC) de origen Colombiano🚀🎖️.
 
 <div>
   <div>
-    <img src="https://drive.google.com/drive/u/0/my-drive" alt="proyecto1"/>
+    <img src="https://raw.githubusercontent.com/Neider-Urbano/musicomerce-backend/back/admin/src/routes/proyecto1.png" alt="proyecto1"/>
   </div>
   <div>
     <img src="https://drive.google.com/file/d/1fZfaNEcbNYsa5xUlwJGPkBYOEOzFsWCz/view?usp=sharing" alt="proyecto1"/>
