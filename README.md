@@ -36,7 +36,7 @@ comunicación (TIC) de origen Colombiano🚀🎖️.
 -   ♥ Follow me on [![GitHub followers](https://img.shields.io/github/followers/javcho23?label=Follow&style=social)](https://github.com/javcho23/?tab=follow) and [![Twitter Badge](https://img.shields.io/badge/-@javcho23-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/aman_atg)](https://twitter.com/aman_atg)
 and be a part of my journey... and See if I can make it or not!
 
-### 🛠️ Idiomas y Herramientas:
+### 🛠️ Tecnologias y Herramientas:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
