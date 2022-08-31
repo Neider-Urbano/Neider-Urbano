@@ -52,11 +52,11 @@ comunicación (TIC) de origen Colombiano🚀🎖️.
 ### ✨ Proyectos
 
 ### ✨ Fortalezas
--   🌱 Responsable y honesto
--   🌱 Alta capacidad de aprendizaje
--   🌱 Trabajo en equipo
--   🌱 Creativo y de actitud positiva
--   🌱 resiliente y proactivo
+-   Responsable y honesto
+-   Alta capacidad de aprendizaje
+-   Trabajo en equipo
+-   Creativo y de actitud positiva
+-   resiliente y proactivo
 
 
 <p align="left"> 
