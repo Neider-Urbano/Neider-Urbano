@@ -70,6 +70,6 @@ and be a part of my journey... and See if I can make it or not!
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=neider-urbano&show_icons=true&locale=en" alt="neider-urbano" /></p>
 
-<p><img style="width:150px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=neider-urbano&" alt="neider-urbano" /></p>
+<p><img style="width:250px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=neider-urbano&" alt="neider-urbano" /></p>
 
 
