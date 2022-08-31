@@ -34,7 +34,6 @@ de proyectos tecnológicos tanto para escritorio como para la web ⚙️👏🏼
 -   Componer canciones cristianas
 -   Ajedrez 🤔🤖
 <br />
-<br/>
 
 ### 🛠️ Tecnologias y Herramientas:
 
