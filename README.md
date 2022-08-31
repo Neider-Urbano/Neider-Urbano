@@ -7,6 +7,13 @@ comunicación (TIC) 🚀🎖️. Tengo experiencia como líder y desarrollador
 de proyectos tecnológicos tanto para escritorio como para la web ⚙️👏🏼🔍.
 <br/>
 <br/>
+  
+### ✨ Información
+
+-   📫 jjuly8julianur@gmail.com
+-   📝 [Resume](https://drive.google.com/file/d/1p5eM20YY464Ca4-JfZm1GuAHuhp81Zt2/view?usp=sharing)
+-   ♥ [![GitHub followers](https://img.shields.io/github/followers/Neider-Urbano?label=Follow&style=social)](https://github.com/Neider-Urbano/?tab=follow) 
+-   🎿 Hobbies: Fútbol, Edición de Vídeos y fotos , Tocar Cuatro Llanero, Componer canciones cristianas, Ajedrez 🤔🤖..
 
 <div style="display:flex; align-items:center">
 <a href="https://www.linkedin.com/in/neiderurbano08" target="_blank">
@@ -24,15 +31,6 @@ de proyectos tecnológicos tanto para escritorio como para la web ⚙️👏🏼
 
 <br />
 <br/>
-
-  
-### ✨ Información
-
--   📫 jjuly8julianur@gmail.com
--   📝 [Resume](https://drive.google.com/file/d/1p5eM20YY464Ca4-JfZm1GuAHuhp81Zt2/view?usp=sharing)
--   ♥ [![GitHub followers](https://img.shields.io/github/followers/Neider-Urbano?label=Follow&style=social)](https://github.com/Neider-Urbano/?tab=follow) 
--   🎿 Hobbies: Fútbol, Edición de Vídeos y fotos , Tocar Cuatro Llanero, Componer canciones cristianas, Ajedrez 🤔🤖..
- 
   
 ### 🛠️ Tecnologias y Herramientas:
 
