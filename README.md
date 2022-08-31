@@ -110,6 +110,7 @@ de proyectos tecnológicos tanto para escritorio como para la web ⚙️👏🏼
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="30" height="30"/> 
   </a> 
 </p>
+<br/>
  
 ### ✨ Proyectos
 
@@ -121,7 +122,7 @@ de proyectos tecnológicos tanto para escritorio como para la web ⚙️👏🏼
         <img style="width:290px" src="https://raw.githubusercontent.com/Neider-Urbano/proyectoindividual/main/client/src/images/fondos/proyecto2.png" alt="proyecto2"/>
      </a>
 </div>
-  
+<br/>
 
 ### ✨ Fortalezas
 -   Responsable y honesto
@@ -129,8 +130,7 @@ de proyectos tecnológicos tanto para escritorio como para la web ⚙️👏🏼
 -   Trabajo en equipo
 -   Creativo y de actitud positiva
 -   resiliente y proactivo
-
-
+<br/>
 
 <div>
 <p><img align="left" style="width:370px; height:170px" src="https://github-readme-stats.vercel.app/api/top-langs?username=neider-urbano&show_icons=true&locale=en&layout=compact" alt="neider-urbano" /></p>
