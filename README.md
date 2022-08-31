@@ -26,7 +26,15 @@ de proyectos tecnológicos tanto para escritorio como para la web ⚙️👏🏼
   </a>
  </div>
 <br />
- 
+
+### ✨ Fortalezas
+-   Responsable y honesto
+-   Alta capacidad de aprendizaje
+-   Trabajo en equipo
+-   Creativo y de actitud positiva
+-   resiliente y proactivo
+<br/>
+
 ### 🎿 Hobbies:
 -   Fútbol
 -   Edición de Vídeos y fotos
@@ -124,13 +132,6 @@ de proyectos tecnológicos tanto para escritorio como para la web ⚙️👏🏼
 </div>
 <br/>
 
-### ✨ Fortalezas
--   Responsable y honesto
--   Alta capacidad de aprendizaje
--   Trabajo en equipo
--   Creativo y de actitud positiva
--   resiliente y proactivo
-<br/>
 
 <div>
 <p><img align="left" style="width:370px; height:170px" src="https://github-readme-stats.vercel.app/api/top-langs?username=neider-urbano&show_icons=true&locale=en&layout=compact" alt="neider-urbano" /></p>
