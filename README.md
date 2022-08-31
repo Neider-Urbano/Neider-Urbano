@@ -8,7 +8,7 @@
 </a>
 
 <a href="https://www.youtube.com/channel/UCPmgVecuDCSzUPFfoYJ0r8w">
-  <img align="left" alt="Neider Youtube" width="35px" src="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c53e.png" />
+  <img align="left" alt="Neider Youtube" width="35px" src="https://e7.pngegg.com/pngimages/992/572/png-clipart-youtube-youtube-thumbnail.png" />
 </a>
 
 <a href="https://www.facebook.com/neider.urbano.355/">
