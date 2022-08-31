@@ -19,7 +19,7 @@
 <br />
 <br/>
 
-  <img align="right" height="400px" style="margin-right:40px; margin-left:40px" alt="Neider's photo" src="https://avatars.githubusercontent.com/u/80359162?s=400&u=2f6addf63da1daca7c818ca21e5a9a4f527fbd3d&v=4" />
+  <img align="right" height="350px" style="margin-right:40px; margin-left:40px" alt="Neider's photo" src="https://avatars.githubusercontent.com/u/80359162?s=400&u=2f6addf63da1daca7c818ca21e5a9a4f527fbd3d&v=4" />
 <p>
 Soy Ingeniero de Sistemas, Full-stack Developer y 
 técnico en Tecnologías de la información y la 
