@@ -14,19 +14,18 @@ de proyectos tecnológicos tanto para escritorio como para la web ⚙️👏🏼
 -   📝 [Resume](https://drive.google.com/file/d/1p5eM20YY464Ca4-JfZm1GuAHuhp81Zt2/view?usp=sharing)
 -   ♥ [![GitHub followers](https://img.shields.io/github/followers/Neider-Urbano?label=Follow&style=social)](https://github.com/Neider-Urbano/?tab=follow) 
 -   🎿 Hobbies: Fútbol, Edición de Vídeos y fotos , Tocar Cuatro Llanero, Componer canciones cristianas, Ajedrez 🤔🤖..
+- <div style="display:flex; align-items:center">
+  <a href="https://www.linkedin.com/in/neiderurbano08" target="_blank">
+    <img align="left" style="margin-right:5px" alt="Neider's Linkedin" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
+  </a>
 
-<div style="display:flex; align-items:center">
-<a href="https://www.linkedin.com/in/neiderurbano08" target="_blank">
-  <img align="left" style="margin-right:5px" alt="Neider's Linkedin" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
-</a>
+  <a href="https://www.youtube.com/channel/UCPmgVecuDCSzUPFfoYJ0r8w" target="_blank">
+    <img align="left" alt="Neider Youtube" width="22px" src="https://icones.pro/wp-content/uploads/2021/02/youtube-logo-icone.png" />
+  </a>
 
-<a href="https://www.youtube.com/channel/UCPmgVecuDCSzUPFfoYJ0r8w" target="_blank">
-  <img align="left" alt="Neider Youtube" width="22px" src="https://icones.pro/wp-content/uploads/2021/02/youtube-logo-icone.png" />
-</a>
-
-<a href="https://www.facebook.com/neider.urbano.355/" target="_blank">
-  <img align="left" alt="Neider's Facebook" width="22px" src="https://cdn-icons-png.flaticon.com/512/124/124010.png" />
-</a>
+  <a href="https://www.facebook.com/neider.urbano.355/" target="_blank">
+    <img align="left" alt="Neider's Facebook" width="22px" src="https://cdn-icons-png.flaticon.com/512/124/124010.png" />
+  </a>
 </div>
 
 <br />
