@@ -52,10 +52,10 @@ comunicación (TIC) de origen Colombiano🚀🎖️.
 ### ✨ Proyectos
 
 <div>
-    <a href="https://raw.githubusercontent.com/Neider-Urbano/musicomerce-backend" target="_blank">
+    <a href="https://github.com/Neider-Urbano/musicomerce-backend" target="_blank">
       <img style="width:290px" src="https://raw.githubusercontent.com/Neider-Urbano/musicomerce-backend/back/admin/src/routes/proyecto1.png" alt="proyecto1"/>
     </a>
-     <a href="https://raw.githubusercontent.com/Neider-Urbano/proyectoindividual" target="_blank">
+     <a href="https://github.com/Neider-Urbano/proyectoindividual" target="_blank">
         <img style="width:290px" src="https://raw.githubusercontent.com/Neider-Urbano/proyectoindividual/main/client/src/images/fondos/proyecto2.png" alt="proyecto2"/>
      </a>
 </div>
