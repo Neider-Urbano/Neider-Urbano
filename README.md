@@ -51,6 +51,16 @@ comunicación (TIC) de origen Colombiano🚀🎖️.
  
 ### ✨ Proyectos
 
+<div>
+  <div>
+    <img src="https://drive.google.com/file/d/1fZfaNEcbNYsa5xUlwJGPkBYOEOzFsWCz/view?usp=sharing" alt="proyecto1"/>
+  </div>
+  <div>
+    <img src="https://drive.google.com/file/d/1fZfaNEcbNYsa5xUlwJGPkBYOEOzFsWCz/view?usp=sharing" alt="proyecto1"/>
+  </div>
+</div>
+  
+
 ### ✨ Fortalezas
 -   Responsable y honesto
 -   Alta capacidad de aprendizaje
