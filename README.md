@@ -27,20 +27,19 @@ comunicación (TIC) de origen Colombiano🚀🎖️.
 <br/>
 
   
-### ✨ Quick Facts
+### ✨ Información
 
--   🌱 Actualmente estoy aprendiendo Typescript
--   🎿 Hobbies: Fútbol, Edición de Vídeos y fotos , Tocar Cuatro Llanero, Componer canciones cristianas, Ajedrez 🤔🤖..
 -   📫 Cómo contactarme: jjuly8julianur@gmail.com
 -   📝 [Resume](https://drive.google.com/file/d/1p5eM20YY464Ca4-JfZm1GuAHuhp81Zt2/view?usp=sharing) (old)
 -   ♥ Sígueme en [![GitHub followers](https://img.shields.io/github/followers/Neider-Urbano?label=Follow&style=social)](https://github.com/Neider-Urbano/?tab=follow) 
-
+-   🎿 Hobbies: Fútbol, Edición de Vídeos y fotos , Tocar Cuatro Llanero, Componer canciones cristianas, Ajedrez 🤔🤖..
+ 
   
 ### 🛠️ Tecnologias Front End:
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
+-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+-![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
+-![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
 
   
 ### 🛠️ Tecnologias Back End:
