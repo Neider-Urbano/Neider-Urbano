@@ -33,7 +33,7 @@ comunicación (TIC) de origen Colombiano🚀🎖️.
 -   🎿 Hobbies: Fútbol, Edición de Vídeos y fotos , Tocar Cuatro Llanero, Componer canciones cristianas, Ajedrez 🤔🤖..
 -   📫 Cómo contactarme: jjuly8julianur@gmail.com
 -   📝 [Resume](https://drive.google.com/file/d/1p5eM20YY464Ca4-JfZm1GuAHuhp81Zt2/view?usp=sharing) (old)
--   ♥ Sígueme en [![GitHub followers](https://img.shields.io/github/followers/Neider-Urbano?label=Follow&style=social)](https://github.com/Neider-Urbano/?tab=follow) and [![Twitter Badge](https://cdn-icons-png.flaticon.com/512/174/174857.png)](https://www.linkedin.com/in/neiderurbano08/)
+-   ♥ Sígueme en [![GitHub followers](https://img.shields.io/github/followers/Neider-Urbano?label=Follow&style=social)](https://github.com/Neider-Urbano/?tab=follow) and [![Twitter Badge](https://cdn-icons-png.flaticon.com/120/120/174857.png)](https://www.linkedin.com/in/neiderurbano08/)
 and be a part of my journey... and See if I can make it or not!
 
 ### 🛠️ Tecnologias y Herramientas:
