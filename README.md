@@ -1,5 +1,11 @@
 ### Hola 👋, Soy [Neider Urbano](https://github.com/Neider-Urbano) 👨‍💻
-
+<img align="right" height="350px" style="margin-right:40px; margin-left:40px" alt="Neider's photo" src="https://avatars.githubusercontent.com/u/80359162?s=400&u=2f6addf63da1daca7c818ca21e5a9a4f527fbd3d&v=4" />
+<p>
+Soy Ingeniero de Sistemas, Full-stack Developer y 
+técnico en Tecnologías de la información y la 
+comunicación (TIC) 🚀🎖️. Tengo experiencia como líder y desarrollador 
+de proyectos tecnológicos tanto para escritorio como para la web ⚙️👏🏼🔍.
+<br/>
 <br/>
 
 <div style="display:flex; align-items:center">
@@ -17,13 +23,6 @@
 </div>
 
 <br />
-<br/>
-
-  <img align="right" height="350px" style="margin-right:40px; margin-left:40px" alt="Neider's photo" src="https://avatars.githubusercontent.com/u/80359162?s=400&u=2f6addf63da1daca7c818ca21e5a9a4f527fbd3d&v=4" />
-<p>
-Soy Ingeniero de Sistemas, Full-stack Developer y 
-técnico en Tecnologías de la información y la 
-comunicación (TIC) de origen Colombiano🚀🎖️.
 <br/>
 
   
