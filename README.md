@@ -17,27 +17,23 @@ de proyectos tecnológicos tanto para escritorio como para la web ⚙️👏🏼
     <a href="https://www.linkedin.com/in/neiderurbano08" target="_blank">
       <img align="left" style="margin-right:5px" alt="Neider's Linkedin" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
     </a>
-  </div>
--<div>
+  
   <a href="https://www.youtube.com/channel/UCPmgVecuDCSzUPFfoYJ0r8w" target="_blank">
     <img align="left" alt="Neider Youtube" width="22px" src="https://icones.pro/wp-content/uploads/2021/02/youtube-logo-icone.png" />
   </a>
-</div>
-
--<div>
-  <a href="https://www.facebook.com/neider.urbano.355/" target="_blank">
+   <a href="https://www.facebook.com/neider.urbano.355/" target="_blank">
     <img align="left" alt="Neider's Facebook" width="22px" src="https://cdn-icons-png.flaticon.com/512/124/124010.png" />
   </a>
-</div>
+ </div>
 <br />
 <br/>
   
-  ### 🎿 Hobbies:
--Fútbol 
--dición de Vídeos y fotos
--Tocar  cuatro Llanero
--Componer canciones cristianas
--Ajedrez 🤔🤖
+### 🎿 Hobbies:
+  -Fútbol 
+  -dición de Vídeos y fotos
+  -Tocar  cuatro Llanero
+  -Componer canciones cristianas
+  -Ajedrez 🤔🤖
 <br />
 <br/>
 
