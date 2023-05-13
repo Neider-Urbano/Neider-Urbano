@@ -1,10 +1,8 @@
 ### Hola 👋, Soy [Neider Urbano](https://github.com/Neider-Urbano) 👨‍💻
 <img align="right" height="350px" style="margin-right:40px; margin-left:40px" alt="Neider's photo" src="https://avatars.githubusercontent.com/u/80359162?s=400&u=2f6addf63da1daca7c818ca21e5a9a4f527fbd3d&v=4" />
 <p>
-Soy Ingeniero de Sistemas, Full-stack Developer y 
-técnico en Tecnologías de la información y la 
-comunicación (TIC) 🚀🎖️. Tengo experiencia como líder y desarrollador 
-de proyectos tecnológicos tanto para escritorio como para la web ⚙️👏🏼🔍.
+Ingeniero de Sistemas y Full-stack Developer 🚀🎖️ con experiencia en líderazgo y desarrollo
+de proyectos tecnológicos ⚙️👏🏼🔍.
 <br/>
 <br/>
   
@@ -28,18 +26,15 @@ de proyectos tecnológicos tanto para escritorio como para la web ⚙️👏🏼
 <br />
 
 ### ✨ Fortalezas
--   Responsable y honesto
--   Alta capacidad de aprendizaje
+-   Responsabilidad
+-   Autoaprendizaje
 -   Trabajo en equipo
--   Creativo y de actitud positiva
--   resiliente y proactivo
+-   Actitud positiva
 <br/>
 
 ### 🎿 Hobbies:
--   Fútbol
--   Edición de Vídeos y fotos
--   Tocar  cuatro Llanero
--   Componer canciones cristianas
+-   Practicar fútbol
+-   Edición multimedia
 -   Ajedrez 🤔🤖
 <br />
 
@@ -49,7 +44,6 @@ de proyectos tecnológicos tanto para escritorio como para la web ⚙️👏🏼
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=PHP)
 ![MySql](https://img.shields.io/badge/-MySql-black?style=flat-square&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![Express.js](https://img.shields.io/badge/-Express-black?style=flat-square&logo=expressjs)
