@@ -1,12 +1,12 @@
 ### Hola 👋, Soy [Neider Urbano](https://github.com/Neider-Urbano) 👨‍💻
 <img align="right" height="350px" style="margin-right:40px; margin-left:40px" alt="Neider's photo" src="https://avatars.githubusercontent.com/u/80359162?s=400&u=2f6addf63da1daca7c818ca21e5a9a4f527fbd3d&v=4" />
 <p>
-Ingeniero de Sistemas y Full-stack Developer 🚀🎖️ con experiencia en líderazgo y desarrollo
+Ingeniero de Sistemas y Full-stack Developer 🚀🎖️ con experiencia en el líderazgo y desarrollo
 de proyectos tecnológicos ⚙️👏🏼🔍.
 <br/>
 <br/>
   
-### ✨ Información
+### 📂 Información
 
 -   📫 jjuly8julianur@gmail.com
 -   📝 [Resume](https://drive.google.com/file/d/1p5eM20YY464Ca4-JfZm1GuAHuhp81Zt2/view?usp=sharing)
@@ -25,7 +25,7 @@ de proyectos tecnológicos ⚙️👏🏼🔍.
  </div>
 <br />
 
-### ✨ Fortalezas
+### 💪🏽 Fortalezas
 -   Responsabilidad
 -   Autoaprendizaje
 -   Trabajo en equipo
@@ -114,7 +114,7 @@ de proyectos tecnológicos ⚙️👏🏼🔍.
 </p>
 <br/>
  
-### ✨ Proyectos
+### ✒️ Proyectos
 
 <div>
     <a href="https://github.com/Neider-Urbano/musicomerce-backend" target="_blank">
