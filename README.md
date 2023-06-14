@@ -10,7 +10,6 @@
 <br/>
 
 <p>
-
   
   ### 📂 Información
   -   📫 jjuly8julianur@gmail.com
