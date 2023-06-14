@@ -9,7 +9,7 @@ de proyectos tecnológicos ⚙️👏🏼🔍.
 ### 📂 Información
 
 -   📫 jjuly8julianur@gmail.com
--   📝 [Resume](https://drive.google.com/file/d/1p5eM20YY464Ca4-JfZm1GuAHuhp81Zt2/view?usp=sharing)
+-   📝 [Resume](https://www.canva.com/design/DAFbOEklJgk/AVzffTrl4stt7XBalE45dQ/view?utm_content=DAFbOEklJgk&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 -   ♥ [![GitHub followers](https://img.shields.io/github/followers/Neider-Urbano?label=Follow&style=social)](https://github.com/Neider-Urbano/?tab=follow) 
 - <div style="display:flex; align-items:center">
     <a href="https://www.linkedin.com/in/neiderurbano08" target="_blank">
