@@ -9,7 +9,7 @@
 <br/>
 <br/>
 
-<p>
+<p style="display:flex;">
   
   ### 📂 Información
   -   📫 jjuly8julianur@gmail.com
