@@ -9,7 +9,7 @@
 <br/>
 <br/>
 
-<p style="display:flex;">
+<div style="display:flex;">
   
   ### 📂 Información
   -   📫 jjuly8julianur@gmail.com
@@ -34,8 +34,8 @@
 -   Autoaprendizaje
 -   Trabajo en equipo
 -   Actitud positiva
+</div>
 <br/>
-</p>
 
 ### 🎿 Hobbies:
 -   Practicar fútbol
