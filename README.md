@@ -1,7 +1,7 @@
 <img align="right" height="300px" style="margin-right:40px; margin-left:40px" alt="Neider's photo" src="https://avatars.githubusercontent.com/u/80359162?s=400&u=2f6addf63da1daca7c818ca21e5a9a4f527fbd3d&v=4" />
 
 ### Hola 👋, Soy [Neider Urbano](https://github.com/Neider-Urbano) 👨‍💻
-<p width="300px">
+<p width="200px">
   Ingeniero de Sistemas y Full-stack Developer 🚀🎖️ con experiencia en el líderazgo y desarrollo
   de proyectos tecnológicos ⚙️👏🏼🔍.
 </p>
