@@ -2,8 +2,9 @@
 
 ### Hola 👋, Soy [Neider Urbano](https://github.com/Neider-Urbano) 👨‍💻
 <p width="300px">
-Ingeniero de Sistemas y Full-stack Developer 🚀🎖️ con experiencia en el líderazgo y desarrollo
-de proyectos tecnológicos ⚙️👏🏼🔍.
+  Ingeniero de Sistemas y Full-stack Developer 🚀🎖️ con experiencia en el líderazgo y desarrollo
+  de proyectos tecnológicos ⚙️👏🏼🔍.
+</p>
 <br/>
 <br/>
   
