@@ -8,7 +8,8 @@
 
 <br/>
 <br/>
-  
+
+<p>
 ### 📂 Información
 
 -   📫 jjuly8julianur@gmail.com
@@ -34,7 +35,7 @@
 -   Trabajo en equipo
 -   Actitud positiva
 <br/>
-
+</p>
 ### 🎿 Hobbies:
 -   Practicar fútbol
 -   Edición multimedia
