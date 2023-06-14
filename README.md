@@ -1,6 +1,6 @@
 <div align="center">
   <h3>Hola 👋, Soy Neider Urbano 👨‍💻<h3/>
-  <p>
+  <p align="left" style="font-weight:300"> 
     Ingeniero de Sistemas y Full-stack Developer 🚀🎖️ con experiencia en el líderazgo y desarrollo
     de proyectos tecnológicos ⚙️👏🏼🔍.
   </p>
