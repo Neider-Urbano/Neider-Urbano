@@ -3,7 +3,7 @@
    <h3 align="center">Hola 👋, Soy Neider Urbano 👨‍💻</h3>
 </p>
 
-<p align="center" width="300">Ingeniero de Sistemas y Full-stack Developer 🚀🎖️. Tengo un año de experiencia en el líderazgo y desarrollo
+<p align="center" width="100">Ingeniero de Sistemas y Full-stack Developer 🚀🎖️. Tengo un año de experiencia en el líderazgo y desarrollo
     de proyectos tecnológicos ⚙️👏🏼🔍.
 </p>
 
