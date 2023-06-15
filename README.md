@@ -36,15 +36,15 @@
          <li>Actitud positiva</li>
       </ul>
    </div>
-   <div></div>
+   <div width="300px">
+      <h3>🎿 Hobbies:</h3>
+      <ul>
+         <li>Practicar fútbol</li>
+         <li>Edición multimedia</li>
+         <li>Ajedrez 🤔🤖</li>
+      </ul>
+   </div>
 </div>
-
-
-### 🎿 Hobbies:
--   Practicar fútbol
--   Edición multimedia
--   Ajedrez 🤔🤖
-<br />
 
 ### 🛠️ Tecnologias y Herramientas:
 
