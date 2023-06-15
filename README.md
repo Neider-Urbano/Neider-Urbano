@@ -6,6 +6,17 @@
     de proyectos tecnológicos ⚙️👏🏼🔍.
 </p>
 
+<div style="display:flex;">
+   <div>
+      <h3>📂 Información</h3>
+      <ul>
+        <li>📫 jjuly8julianur@gmail.com</li> 
+      </ul>
+   </div>
+   <div></div>
+   <div></div>
+</div>
+
 ### 📂 Información
   -   📫 jjuly8julianur@gmail.com
   -   📝 [Resume](https://www.canva.com/design/DAFbOEklJgk/AVzffTrl4stt7XBalE45dQ/view?utm_content=DAFbOEklJgk&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
