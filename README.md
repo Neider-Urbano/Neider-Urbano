@@ -7,7 +7,7 @@
 </p>
 
 <div style="display:flex;">
-   <div>
+   <div width="40%">
       <h3>📂 Información</h3>
       <ul>
          <li>📫 jjuly8julianur@gmail.com</li> 
@@ -27,7 +27,7 @@
          </li>
       </ul>
    </div>
-   <div>
+   <div width="40%">
       <h3>💪🏽 Fortalezas</h3>
       <ul>
          <li>Responsabilidad</li>
