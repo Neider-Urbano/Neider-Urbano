@@ -10,7 +10,8 @@
 <br/>
 
 <div style="display:flex;">
-  
+  <p>
+    
   ### 📂 Información
   -   📫 jjuly8julianur@gmail.com
   -   📝 [Resume](https://www.canva.com/design/DAFbOEklJgk/AVzffTrl4stt7XBalE45dQ/view?utm_content=DAFbOEklJgk&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
@@ -27,13 +28,19 @@
       <img align="left" alt="Neider's Facebook" width="22px" src="https://cdn-icons-png.flaticon.com/512/124/124010.png" />
     </a>
    </div>
+   
+  </p>
   <br />
+<p>
 
+  
 ### 💪🏽 Fortalezas
 -   Responsabilidad
 -   Autoaprendizaje
 -   Trabajo en equipo
 -   Actitud positiva
+  
+</p>
 </div>
 <br/>
 
