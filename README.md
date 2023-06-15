@@ -31,12 +31,6 @@
    <div></div>
 </div>
 
-### 📂 Información
-  -   📫 jjuly8julianur@gmail.com
-  -   📝 [Resume]()
-  -   ♥ [![GitHub followers](https://img.shields.io/github/followers/Neider-Urbano?label=Follow&style=social)](https://github.com/Neider-Urbano/?tab=follow) 
-  - 
-  <br />
 
 ### 💪🏽 Fortalezas
 -   Responsabilidad
