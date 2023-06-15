@@ -6,8 +6,8 @@
     de proyectos tecnológicos ⚙️👏🏼🔍.
 </p>
 
-<div display="flex">
-   <div width="300px">
+<div>
+   <div width="300px" align="left">
       <h3>📂 Información</h3>
       <ul>
          <li>📫 jjuly8julianur@gmail.com</li> 
@@ -27,7 +27,7 @@
          </li>
       </ul>
    </div>
-   <div width="300px">
+   <div width="300px" align="left">
       <h3>💪🏽 Fortalezas</h3>
       <ul>
          <li>Responsabilidad</li>
