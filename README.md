@@ -27,17 +27,18 @@
          </li>
       </ul>
    </div>
-   <div></div>
+   <div>
+      <h3>💪🏽 Fortalezas</h3>
+      <ul>
+         <li>Responsabilidad</li>
+         <li>Autoaprendizaje</li>
+         <li>Trabajo en equipo</li>
+         <li>Actitud positiva</li>
+      </ul>
+   </div>
    <div></div>
 </div>
 
-
-### 💪🏽 Fortalezas
--   Responsabilidad
--   Autoaprendizaje
--   Trabajo en equipo
--   Actitud positiva
-<br/>
 
 ### 🎿 Hobbies:
 -   Practicar fútbol
