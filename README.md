@@ -6,7 +6,7 @@
     de proyectos tecnológicos ⚙️👏🏼🔍.
 </p>
 
-<div style="display:flex;" width="500px">
+<div display="flex">
    <div width="300px">
       <h3>📂 Información</h3>
       <ul>
