@@ -112,7 +112,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="25" height="25"/> 
   </a> 
 </p>
-<br/>
  
 ### ✒️ Proyectos
 
@@ -124,7 +123,6 @@
         <img style="width:290px" src="https://raw.githubusercontent.com/Neider-Urbano/proyectoindividual/main/client/src/images/fondos/proyecto2.png" alt="proyecto2"/>
      </a>
 </div>
-<br/>
 
 
 <div style="display:flex;">
