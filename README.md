@@ -128,10 +128,9 @@
 
 
 <div style="display:flex;">
-      <img style="width:370px; height:170px" src="https://github-readme-stats.vercel.app/api/top-langs?username=neider-urbano&show_icons=true&locale=en&layout=compact" alt="neider-urbano" />
-      <img style="width:370px; height:170px" src="https://github-readme-stats.vercel.app/api?username=neider-urbano&show_icons=true&locale=en" alt="neider-urbano" />
-      <img style="width:370px; height:170px" src="https://github-readme-streak-stats.herokuapp.com/?user=neider-urbano&" alt="neider-urbano" />
-
+      <img style="width:310px; height:170px" src="https://github-readme-stats.vercel.app/api/top-langs?username=neider-urbano&show_icons=true&locale=en&layout=compact" alt="neider-urbano" />
+      <img style="width:310px; height:170px" src="https://github-readme-stats.vercel.app/api?username=neider-urbano&show_icons=true&locale=en" alt="neider-urbano" />
+      <img style="width:310px; height:170px" src="https://github-readme-streak-stats.herokuapp.com/?user=neider-urbano&" alt="neider-urbano" />
 </div>
 
 
