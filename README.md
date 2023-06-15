@@ -7,7 +7,8 @@
     de proyectos tecnológicos ⚙️👏🏼🔍.
 </p>
 
-   <div width="300px" align="left">
+<div>
+   <a>
       <h3>📂 Información</h3>
       <ul>
          <li>📫 jjuly8julianur@gmail.com</li> 
@@ -26,8 +27,8 @@
             </a>
          </li>
       </ul>
-   </div>
-   <div width="300px" align="left">
+   </a>
+   <a width="300px" align="left">
       <h3>💪🏽 Fortalezas</h3>
       <ul>
          <li>Responsabilidad</li>
@@ -35,7 +36,7 @@
          <li>Trabajo en equipo</li>
          <li>Actitud positiva</li>
       </ul>
-   </div>
+   </a>
    <div width="300px">
       <h3>🎿 Hobbies:</h3>
       <ul>
@@ -44,7 +45,7 @@
          <li>Ajedrez 🤔🤖</li>
       </ul>
    </div>
-
+</div>
 
 ### 🛠️ Tecnologias y Herramientas:
 
