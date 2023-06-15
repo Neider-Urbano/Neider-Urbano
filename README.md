@@ -1,5 +1,5 @@
-<p align="center" width="300" style="border-radius:50%;">
-   <img align="center" width="200" src="https://scontent.fbog16-2.fna.fbcdn.net/v/t39.30808-6/319981111_1139285870125316_6081446878948633904_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeE9LlTtkumXPCdEM1xQsvWaVSI1vqNjmkZVIjW-o2OaRjeBU1g7Jt023GzdweBqzrqaRbCY2MxMf3c5655h7tTx&_nc_ohc=cYSoteERwS8AX-_XSS9&_nc_ht=scontent.fbog16-2.fna&oh=00_AfDolSXGBeBbNWtLJQoZAumHol6ArPEQOQSdCi-mnjtZ4A&oe=648F912B" />
+<p align="center" width="300">
+   <img align="center" width="200" src="https://scontent.fbog16-2.fna.fbcdn.net/v/t39.30808-6/319981111_1139285870125316_6081446878948633904_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeE9LlTtkumXPCdEM1xQsvWaVSI1vqNjmkZVIjW-o2OaRjeBU1g7Jt023GzdweBqzrqaRbCY2MxMf3c5655h7tTx&_nc_ohc=cYSoteERwS8AX-_XSS9&_nc_ht=scontent.fbog16-2.fna&oh=00_AfDolSXGBeBbNWtLJQoZAumHol6ArPEQOQSdCi-mnjtZ4A&oe=648F912B" style="border-radius:50%;"/>
    <h3 align="center">Hola 👋, Soy Neider Urbano 👨‍💻</h3>
 </p>
 <p align="center">Ingeniero de Sistemas y Full-stack Developer 🚀🎖️. Tengo un año de experiencia en el líderazgo y desarrollo
