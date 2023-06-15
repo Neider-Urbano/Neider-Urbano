@@ -8,7 +8,7 @@
 </p>
 
 <div>
-   <a>
+   <div>
       <h3>📂 Información</h3>
       <ul>
          <li>📫 jjuly8julianur@gmail.com</li> 
@@ -27,8 +27,8 @@
             </a>
          </li>
       </ul>
-   </a>
-   <a width="300px" align="left">
+   </div>
+   <div>
       <h3>💪🏽 Fortalezas</h3>
       <ul>
          <li>Responsabilidad</li>
@@ -36,8 +36,8 @@
          <li>Trabajo en equipo</li>
          <li>Actitud positiva</li>
       </ul>
-   </a>
-   <div width="300px">
+   </div>
+   <div>
       <h3>🎿 Hobbies:</h3>
       <ul>
          <li>Practicar fútbol</li>
